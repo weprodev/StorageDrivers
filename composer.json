@@ -1,0 +1,13 @@
+{
+    "name": "mekaeil/storage-drivers",
+    "description": "A driver package for storaging data",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mekaeil",
+            "email": "maikel1370@gmail.com"
+        }
+    ],
+    "require": {}
+}
